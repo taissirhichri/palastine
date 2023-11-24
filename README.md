@@ -1,2 +1,2 @@
-# palastine
+# projet sti
 projet informatique
